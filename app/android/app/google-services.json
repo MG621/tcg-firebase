@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042281760058",
+    "project_id": "tcg-testing",
+    "storage_bucket": "tcg-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042281760058:android:4b850ee44707b449693c03",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoypDtFuYFkZZ1r2JGE2vI9R2XmNqOrAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
